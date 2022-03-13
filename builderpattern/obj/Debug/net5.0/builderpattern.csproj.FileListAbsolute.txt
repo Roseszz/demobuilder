@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\builderpattern.exe
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\builderpattern.deps.json
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\builderpattern.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\builderpattern.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\builderpattern.dll
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\ref\builderpattern.dll
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\bin\Debug\net5.0\builderpattern.pdb
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.dll
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\ref\builderpattern.dll
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.pdb
+C:\Users\Admin\OneDrive\Documents\demo\demobuilder\builderpattern\obj\Debug\net5.0\builderpattern.genruntimeconfig.cache
