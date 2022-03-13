@@ -4,7 +4,7 @@ namespace builderpattern.ComputerParts
   {
     public Cpu(string name)
     {
-      Name = name;
+      this.Name = name;
     }
 
     public string Name { get; set; }

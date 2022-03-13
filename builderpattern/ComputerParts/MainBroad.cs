@@ -4,7 +4,7 @@ namespace builderpattern.ComputerParts
   {
     public Mainbroad(string name)
     {
-      Name = name;
+      this.Name = name;
     }
 
     public string Name { get; set; }

@@ -4,7 +4,7 @@ namespace builderpattern.ComputerParts
   {
     public Graphiccard(string name)
     {
-      Name = name;
+      this.Name = name;
     }
 
     public string Name { get; set; }
